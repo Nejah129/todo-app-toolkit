@@ -1,7 +1,18 @@
 .App {
-  text-align: center;
+  text-align: center ;
 }
-
+.icon{
+  margin-top: 30px;
+  margin-left: 20px;
+  font-size: 30px;
+}
+.item{
+  display: flex;
+  margin-left: 40%;
+}
+.card{
+  text-align: center  ;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
